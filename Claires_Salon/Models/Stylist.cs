@@ -2,15 +2,15 @@ using System.Collections.Generic;
 
 namespace Claires_Salon.Models
 {
-  public class Client
+  public class Stylist
   {
-    public Client()
+    public Stylist()
     {
-      this.Styleists = new HashSet<Stylist>();
+      this.Stylists = new HashSet<Stylist>();
     }
 
-    public int id_client { get; set; }
-    public string client_name { get; set; }
+    public int StylistId { get; set; }
+    public string StylistName { get; set; }
     public virtual ICollection<Stylist> Stylists { get; set; }
   }
 }
