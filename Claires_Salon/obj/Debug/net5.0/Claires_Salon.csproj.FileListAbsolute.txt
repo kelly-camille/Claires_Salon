@@ -44,3 +44,9 @@ C:\Users\kelly\OneDrive\Desktop\Claires_Salon.Solution\Claires_Salon\obj\Debug\n
 C:\Users\kelly\OneDrive\Desktop\Claires_Salon.Solution\Claires_Salon\bin\Debug\net5.0\Claires_Salon.Views.dll
 C:\Users\kelly\OneDrive\Desktop\Claires_Salon.Solution\Claires_Salon\bin\Debug\net5.0\Claires_Salon.Views.pdb
 C:\Users\kelly\OneDrive\Desktop\Claires_Salon.Solution\Claires_Salon\obj\Debug\net5.0\Claires_Salon.Views.pdb
+C:\Users\kelly\OneDrive\Desktop\Claires_Salon.Solution\Claires_Salon\obj\Debug\net5.0\Razor\Views\Clients\Create.cshtml.g.cs
+C:\Users\kelly\OneDrive\Desktop\Claires_Salon.Solution\Claires_Salon\obj\Debug\net5.0\Razor\Views\Clients\Delete.cshtml.g.cs
+C:\Users\kelly\OneDrive\Desktop\Claires_Salon.Solution\Claires_Salon\obj\Debug\net5.0\Razor\Views\Clients\DeleteAll.cshtml.g.cs
+C:\Users\kelly\OneDrive\Desktop\Claires_Salon.Solution\Claires_Salon\obj\Debug\net5.0\Razor\Views\Clients\Details.cshtml.g.cs
+C:\Users\kelly\OneDrive\Desktop\Claires_Salon.Solution\Claires_Salon\obj\Debug\net5.0\Razor\Views\Clients\Edit.cshtml.g.cs
+C:\Users\kelly\OneDrive\Desktop\Claires_Salon.Solution\Claires_Salon\obj\Debug\net5.0\Razor\Views\Clients\Index.cshtml.g.cs
