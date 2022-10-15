@@ -5693,11 +5693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kelly\\OneDrive\\Desktop\\Claires_Salon.Solution\\Claires_Salon\\Claires_Salon.csproj",
+      "projectUniqueName": "C:\\Users\\kelly\\OneDrive\\Desktop\\HairSalon\\Claires_Salon\\Claires_Salon.csproj",
       "projectName": "Claires_Salon",
-      "projectPath": "C:\\Users\\kelly\\OneDrive\\Desktop\\Claires_Salon.Solution\\Claires_Salon\\Claires_Salon.csproj",
+      "projectPath": "C:\\Users\\kelly\\OneDrive\\Desktop\\HairSalon\\Claires_Salon\\Claires_Salon.csproj",
       "packagesPath": "C:\\Users\\kelly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kelly\\OneDrive\\Desktop\\Claires_Salon.Solution\\Claires_Salon\\obj\\",
+      "outputPath": "C:\\Users\\kelly\\OneDrive\\Desktop\\HairSalon\\Claires_Salon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kelly\\AppData\\Roaming\\NuGet\\NuGet.Config"

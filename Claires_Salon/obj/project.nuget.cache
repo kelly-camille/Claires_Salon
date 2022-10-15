@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3w02xRkzBdwaU8kbFgJuxvEN62MtsAmRhPZB7rjTNIp130DaHVKzJCNVyOVawzJehS9N7nT0YXlmQpESF3NiNg==",
+  "dgSpecHash": "f7Q7SwSbVZ4QeumbTGzPR4zeDVN4D7Emp+nDRDFdVR1LB1wBFWvyX2CAKZVcc4JaU4i3Vf+AWAz2kt7hDBbtVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kelly\\OneDrive\\Desktop\\Claires_Salon.Solution\\Claires_Salon\\Claires_Salon.csproj",
+  "projectFilePath": "C:\\Users\\kelly\\OneDrive\\Desktop\\HairSalon\\Claires_Salon\\Claires_Salon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kelly\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\kelly\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
