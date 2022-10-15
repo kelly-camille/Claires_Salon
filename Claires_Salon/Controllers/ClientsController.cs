@@ -22,9 +22,13 @@ namespace Claires_Salon.Controllers
       return View(model);
     }
 
+    // public ActionResult Create()
+    // {
+    //   return View();
+    // }
     public ActionResult Create()
     {
-      ViewBag.StylistId = new SelectList(_db.Stylists, "StylistId", "Name");
+      ViewBag.StylistId = new SelectList(_db.Stylists, "StylistId", "StylistName");
       return View();
     }
 
