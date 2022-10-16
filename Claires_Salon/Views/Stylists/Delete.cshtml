@@ -1,0 +1,15 @@
+@{
+Layout = "_Layout";
+}
+
+@model Claires_Salon.Models.Stylist
+<p>Delete @Model.StylistName</p>
+
+<p>Are you sure?</p>
+@using (Html.BeginForm())
+{
+  <button type="submit">Delete</button>
+}
+
+<button>@Html.ActionLink("Back to List", "Index")</button>
+<p>@Html.ActionLink("Home", "Index", "Home")</p>
